@@ -1,0 +1,4 @@
+[params]
+motorhomeURL = "http://localhost:1315/motorhome/"
+coreURL = "http://localhost:1313/"
+surfURL = "http://localhost:1314/surf/"
