@@ -63,36 +63,61 @@ promo:
 ############################# About Product #######################
 about_product:
   enable: true
-  title: "Why Choose Apple Watch"
+  title: "Services We Offer"
   items:
     # about product item loop
-    - image: "images/showcase/showcase-4.png"
-      title: "Lorem ipsum dolor sit amet."
+    - image: "images/showcase/showcase-3.png"
+      title: "Leak Remediation"
       content:
         "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
         sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
         quas, quo harum deserunt consequatur cumque!"
       button:
-        enable: false
-        label: "Check Features"
-        link: "#/"
+        enable: true
+        label: "Read More"
+        link: "/motorhome/service/leak-remediation/"
 
     # about product item loop
     - image: "images/showcase/showcase-3.png"
-      title: "Lorem ipsum dolor sit amet."
+      title: "Modification Refurbishment"
       content:
         "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
         sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
         quas, quo harum deserunt consequatur cumque!"
       button:
-        enable: false
-        label: "Check Features"
-        link: "#/"
+        enable: true
+        label: "Read More"
+        link: "/motorhome/service/modification-refurbishment/"
+
+    # about product item loop
+    - image: "images/showcase/showcase-3.png"
+      title: "Repairs"
+      content:
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
+        sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
+        quas, quo harum deserunt consequatur cumque!"
+      button:
+        enable: true
+        label: "Read More"
+        link: "/motorhome/service/repairs/"
+
+    # about product item loop
+    - image: "images/showcase/showcase-4.png"
+      title: "Self Containment"
+      content:
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
+        sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
+        quas, quo harum deserunt consequatur cumque!"
+      button:
+        enable: true
+        label: "Read More"
+        link: "/motorhome/service/self-containment/"
 
 #################################### Products ########################
 products:
   enable: true
-  title: "Checkout Our All Products"
+  title: "Motorhomes and Products"
+  content: "Check out our functional and luxurious motorhomes and the products we create and use in our builds."
 
 ################################## Subscription ###################
 subscription:
