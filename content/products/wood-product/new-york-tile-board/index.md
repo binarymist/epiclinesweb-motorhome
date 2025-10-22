@@ -28,7 +28,7 @@ button_link: "https://www.trademe.co.nz/a/marketplace/building-renovation/buildi
 draft: false
 ---
 
-Our Tile Board is made from 4mm Okume (very durable) ply with Poplar core, aprx 4kg per sheet, much lighter than other off-the-shelf offerings such as fibre cement boards and Seratone. Perfect for motorhome and caravan builds.
+Our Tile Board is made from 4mm Okoume (very durable) ply with Poplar core, approximately 4kg per sheet, much lighter than other off-the-shelf offerings such as fibre cement boards and Seratone. Perfect for motorhome and caravan builds.
 We use this board in our new motorhome builds because we haven't found anything else lighter or stronger.
 
 The grout lines are cut (0.3mm deep) by hand and look more authentic than the other moulded boards; they actually look like grout!

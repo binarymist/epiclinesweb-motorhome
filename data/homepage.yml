@@ -1,9 +1,9 @@
 ############################# banner ############################
 banner:
   enable: true
-  title: "Believe in Technology, Make the change"
-  content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas, modi fugit in veritatis labore perferendis. Minima hic at, nostrum nihil!"
-  image: "images/watch.png"
+  title: "Motorhomes for the discerning"
+  content: "We design, build and service motorhomes as if they were for ourselves; that way, we know you'll love them. We're a fussy bunch, and have high expectations of ourselves and what we create. We keep our overheads low so that the benefits are passed on to you. Expect competitive pricing and the highest standard of workmanship and service."
+  image: "images/banner_min.jpg"
   button:
     enable: true
     label: "Browse All Products"
@@ -12,106 +12,51 @@ banner:
 ############################# Feature ############################
 features:
   enable: true
-  title: "Our Core Features"
-  image: "images/watch-2.png"
+  title: "Making Dream Lifestyles a reality"
+  image: "images/features_min.jpg"
 
   # feature at the left of the image
   left_side:
     # feature item loop
-    - title: "Smooth Touch"
-      icon: "tf-ion-ios-alarm-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    - title: "Power Generation and Storage"
+      icon: "tf-ion-battery-full"
+      content: "No one has more solar power than us; our appliances are not just decorative, and all are monitored and controlled from the central touch screen."
 
       # feature item loop
-    - title: "Elegant Design"
-      icon: "tf-ion-ios-bell-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    - title: "Water Storage"
+      icon: "tf-ion-waterdrop"
+      content: "Our motorhomes are designed to utilise all available chassis space for both freshwater and greywater tanks. Levels of both are clearly visible from the motorhome's central touch screen."
 
-      # feature item loop
-    - title: "Easy Pricing"
-      icon: "tf-ion-ios-cart-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    - title: "General Storage"
+      icon: "tf-ion-android-cart"
+      content: "Internal and external surfboard storage, wardrobes, and massive storage capacity."
 
   # feature at the right of the image
   right_side:
     # feature item loop
-    - title: "Smooth Touch"
-      icon: "tf-ion-ios-alarm-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
 
       # feature item loop
-    - title: "Elegant Design"
-      icon: "tf-ion-ios-bell-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    - title: "Interior Design"
+      icon: "tf-ion-android-clipboard"
+      content: "Large heating and cooling capacity for all NZ seasons. Cleverly designed spaces. All seats and beds are upholstered in leather-clad memory foam. Light but strong joinery. LED lighting throughout."
 
       # feature item loop
-    - title: "Easy Pricing"
-      icon: "tf-ion-ios-cart-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    - title: "Appliances"
+      icon: "tf-ion-coffee"
+      content: "We select and install appliances that are often better than what you would expect in a fixed abode."
+
+      # feature item loop
+    - title: "Digital Workspaces"
+      icon: "tf-ion-android-laptop"
+      content: "Workspaces are designed to be comfortable for a full day's work, rest or play."
 
 ############################# promo ############################
 promo:
   enable: true
-  image: "images/watch.png"
-  title: "Designed by professional , the benefit for creative gigs"
+  image: "images/promo_min.jpg"
+  title: "Designed for ourselves,<br>offered to you"
   content:
-    "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore, deleniti minima
-    nisi, velit atque quaerat impedit ea maxime sunt accusamus at obcaecati dolor iure iusto omnis quis eum.
-    <br><br>
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis commodi odit, illo, qui aliquam dol"
-
-############################# About Product #######################
-about_product:
-  enable: true
-  title: "Services We Offer"
-  items:
-    # about product item loop
-    - image: "images/showcase/showcase-3.png"
-      title: "Leak Remediation"
-      content:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
-        sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
-        quas, quo harum deserunt consequatur cumque!"
-      button:
-        enable: true
-        label: "Read More"
-        link: "/motorhome/service/leak-remediation/"
-
-    # about product item loop
-    - image: "images/showcase/showcase-3.png"
-      title: "Modification Refurbishment"
-      content:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
-        sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
-        quas, quo harum deserunt consequatur cumque!"
-      button:
-        enable: true
-        label: "Read More"
-        link: "/motorhome/service/modification-refurbishment/"
-
-    # about product item loop
-    - image: "images/showcase/showcase-3.png"
-      title: "Repairs"
-      content:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
-        sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
-        quas, quo harum deserunt consequatur cumque!"
-      button:
-        enable: true
-        label: "Read More"
-        link: "/motorhome/service/repairs/"
-
-    # about product item loop
-    - image: "images/showcase/showcase-4.png"
-      title: "Self Containment"
-      content:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
-        sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
-        quas, quo harum deserunt consequatur cumque!"
-      button:
-        enable: true
-        label: "Read More"
-        link: "/motorhome/service/self-containment/"
+    "Many motorhome retailers talk their imported offerings up; we don’t need to. Our New Zealand-designed and built motorhomes have high-end specifications that you’ll struggle to find elsewhere."
 
 #################################### Products ########################
 products:
@@ -119,18 +64,76 @@ products:
   title: "Motorhomes and Products"
   content: "Check out our functional and luxurious motorhomes and the products we create and use in our builds."
 
+############################# About Product #######################
+about_product:
+  enable: true
+  title: "Services We Offer"
+  items:
+
+    # about product item loop
+    - image: "images/service/repairs/cabinetry-benchtops_min.jpg"
+      title: "Repairs"
+      content:
+        "
+        <i class='tf-tools-2'></i> &nbsp; Leak Remediation<br>
+        <i class='tf-tools-2'></i> &nbsp; Cabinetry and benchtops<br>
+        <i class='tf-tools-2'></i> &nbsp; Collision repairs<br>
+        <i class='tf-tools-2'></i> &nbsp; Fibreglass<br>
+        <i class='tf-tools-2'></i> &nbsp; Welding and fabrication<br>
+        <i class='tf-tools-2'></i> &nbsp; Rust repairs<br>
+        <i class='tf-tools-2'></i> &nbsp; Interior and exterior linings
+        "
+      button:
+        enable: true
+        label: "Read More"
+        link: "/motorhome/service/repairs/"
+
+    # about product item loop
+    - image: "images/service/alterations-upgrades/solar-panels_min.jpg"
+      title: "Alterations and Upgrades"
+      content:
+        "
+        <i class='tf-tools-2'></i> &nbsp; Joinery alterations<br>
+        <i class='tf-tools-2'></i> &nbsp; Solar installations<br>
+        <i class='tf-tools-2'></i> &nbsp; Diesel heaters<br>
+        <i class='tf-tools-2'></i> &nbsp; Water tanks<br>
+        <i class='tf-tools-2'></i> &nbsp; Interior fit-outs<br>
+        "
+      button:
+        enable: true
+        label: "Read More"
+        link: "/motorhome/service/alterations-upgrades/"
+
+    # about product item loop
+    - image: "images/service/other-services/electrical_min.jpg"
+      title: "Other Services"
+      content:
+        "
+        <i class='tf-tools-2'></i> &nbsp; Self-containment inspections<br>
+        <i class='tf-tools-2'></i>  &nbsp;  Window tinting<br>
+        <i class='tf-tools-2'></i>  &nbsp;  Carpet laying<br>
+        <i class='tf-tools-2'></i>  &nbsp;  Plumbing<br>
+        <i class='tf-tools-2'></i>  &nbsp;  Electrical<br>
+        <i class='tf-tools-2'></i>  &nbsp;  Panel and Paint
+        "
+      button:
+        enable: true
+        label: "Read More"
+        link: "/motorhome/service/other-services/"
+
+
 ################################## Subscription ###################
 subscription:
   enable: true
-  bg_image: "images/call-to-action.jpg"
-  title: "Get Product Updates"
-  content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod"
+  bg_image: "images/call-to-action_min.jpg"
+  title: "Subscribe to our newsletter"
+  content: "Unsubscribe any time"
   placeholder: "Your Email Address Here"
 
 ############################## Testimonial ##########################
 testimonial:
   enable: true
-  title: "Watch Review"
+  title: "What Our Customers Say"
   testimonial_item:
     # testimonial item loop
     - name: "Matt Fitzsimmons"

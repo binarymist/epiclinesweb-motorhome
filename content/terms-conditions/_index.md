@@ -7,6 +7,9 @@ categories: ["resources"]
 legal-resources: ["ts and cs"]
 ---
 
+WIP...
+
+<!--
 We are not responsible for anything that goes wrong if you change the electrical settings.
 
 
@@ -39,3 +42,4 @@ Please read this terms and conditions stated below, which outline a lot of legal
 2. Help using features and theme options
 3. Bug fixes – if you discovered a bug in the theme/Template we will fix it
 4. Functionality which does not work as advertised
+-->
