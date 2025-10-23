@@ -44,7 +44,7 @@ Large lounge, dining and digital workspace for two, including a kitchen with han
 
 All of the appliances will keep running long after your neighbours with the Apex's massive power generation and storage.
 
-The wetroom is another work of art; all surfaces are sealed with 3 coats of epoxy sealer, then tanked with 3 coats of marine epoxy. The base is then coated with another 3 coats of epoxy brushing polyurethane, making the room completely waterproof. And this is all before the [4mm okoume ply tile board]({{% param "baseURL" %}}products/wood-product/new-york-tile-board/) is cut and grooved, coated with 3 coats of plant-based sealer, 3 coats of automotive paint, then finally fixed and sealed at all joins.
+The wetroom is another work of art; all surfaces are sealed with 3 coats of epoxy sealer, then tanked with 3 coats of marine epoxy. The base is then coated with another 3 coats of epoxy brushing polyurethane, making the room completely waterproof. And this is all before the [4mm okoume ply tile board]({{< param "motorhomeURL" >}}products/wood-product/new-york-tile-board/) is cut and grooved, coated with 3 coats of plant-based sealer, 3 coats of automotive paint, then finally fixed and sealed at all joins.
 
 <br>
 
