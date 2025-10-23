@@ -25,7 +25,7 @@ features:
       # feature item loop
     - title: "Water Storage"
       icon: "tf-ion-waterdrop"
-      content: "Our motorhomes are designed to utilise all available chassis space for both freshwater and greywater tanks. Levels of both are clearly visible from the motorhome's central touch screen."
+      content: "Our motorhomes are designed to utilise all available chassis space for fresh and greywater tanks. Levels are visible from the central touch screen."
 
     - title: "General Storage"
       icon: "tf-ion-android-cart"
