@@ -69,35 +69,19 @@ frontend:
       - ${HUGO_CACHEDIR}/**/*
       - ${NPM_CONFIG_CACHE}/**/*
   customHeaders:
-    - pattern: "**/*.woff2"
+    - pattern: '**/*.woff2'
       headers:
-        - key: "Access-Control-Allow-Origin"
-          value: "https://www.epiclines.nz"
-    - pattern: "**/*.woff"
+        - key: 'Access-Control-Allow-Origin'
+          value: 'https://www.epiclines.nz, https://epiclines.nz'
+    - pattern: '**/*.woff'
       headers:
-        - key: "Access-Control-Allow-Origin"
-          value: "https://www.epiclines.nz"
-    - pattern: "**/*.ttf"
+        - key: 'Access-Control-Allow-Origin'
+          value: 'https://www.epiclines.nz, https://epiclines.nz'
+    - pattern: '**/*.ttf'
       headers:
-        - key: "Access-Control-Allow-Origin"
-          value: "https://www.epiclines.nz"
-    - pattern: "**/*.eot"
+        - key: 'Access-Control-Allow-Origin'
+          value: 'https://www.epiclines.nz, https://epiclines.nz'
+    - pattern: '**/*.eot'
       headers:
-        - key: "Access-Control-Allow-Origin"
-          value: "https://www.epiclines.nz"
-    - pattern: "**/*.woff2"
-      headers:
-        - key: "Access-Control-Allow-Origin"
-          value: "https://epiclines.nz"
-    - pattern: "**/*.woff"
-      headers:
-        - key: "Access-Control-Allow-Origin"
-          value: "https://epiclines.nz"
-    - pattern: "**/*.ttf"
-      headers:
-        - key: "Access-Control-Allow-Origin"
-          value: "https://epiclines.nz"
-    - pattern: "**/*.eot"
-      headers:
-        - key: "Access-Control-Allow-Origin"
-          value: "https://epiclines.nz"
+        - key: 'Access-Control-Allow-Origin'
+          value: 'https://www.epiclines.nz, https://epiclines.nz'
