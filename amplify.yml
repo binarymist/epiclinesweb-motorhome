@@ -69,4 +69,3 @@ frontend:
       - ${HUGO_CACHEDIR}/**/*
       - ${NPM_CONFIG_CACHE}/**/*
 
-

@@ -94,16 +94,16 @@ weight = 4
 # footer menu
 [[footer]]
 name = "Blog"
-url = "https://www.epiclines.nz/blogg/"
+url = "https://www.epiclines.nz/blog/"
 weight = 1
 
 [[footer]]
 name = "Contact"
-url = "https://www.epiclines.nz/contactt/"
+url = "https://www.epiclines.nz/contact/"
 weight = 2
 
 [[footer]]
 name = "Terms & Conditions"
-url = "terms-conditionss/"
+url = "terms-conditions/"
 weight = 3
 
