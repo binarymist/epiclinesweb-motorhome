@@ -83,7 +83,7 @@ mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"                  
 
 [taxonomies]
   # Product specific
-  motorhome = "motorhome/details"
+  motor_home_detail = "motor-home/details"
   wood_product_type = "wood-product/types"  
   wood_product_suitablefor = "wood-product/suitable-for"
   wood_product_dimensions = "wood-product/dimensions"

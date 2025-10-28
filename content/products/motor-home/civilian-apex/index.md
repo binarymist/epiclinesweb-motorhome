@@ -18,7 +18,7 @@ price: "179990.00"
 #discount_price: "179990.00"
 
 # taxonomy
-motorhome/details: ["nissan", "civilian", "green", "6.9M", "4.5L petrol"]
+motor-home/details: ["nissan", "civilian", "green", "6.9M", "4.5L petrol"]
 
 # product variation
 productvariation_colours: ["black", "green"]
