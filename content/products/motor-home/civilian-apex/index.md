@@ -13,7 +13,7 @@ images:
 
 
 # meta description
-description : "this is meta description"
+description : "EpicLines Civilian Apex"
 
 # product Price
 price: "179990.00"
