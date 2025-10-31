@@ -1,13 +1,15 @@
 ---
 title: "Civilian Apex"
 date: 2019-10-17T11:22:16+06:00
-images: 
-  - "images/products/motorhome/civilian-apex/3.jpg"
+images:
+  - "images/products/motorhome/civilian-apex/1.jpg"
   - "images/products/motorhome/civilian-apex/2.jpg"
-  - "images/products/motorhome/civilian-apex/20251019_094014.jpg"
-  - "images/products/motorhome/civilian-apex/20251019_095811.jpg"
-  - "images/products/motorhome/civilian-apex/20251019_095856.jpg"
-  - "images/products/motorhome/civilian-apex/20251019_095946.jpg"
+  - "images/products/motorhome/civilian-apex/3.jpg"
+  - "images/products/motorhome/civilian-apex/4.jpg"
+  - "images/products/motorhome/civilian-apex/5.jpg"
+  - "images/products/motorhome/civilian-apex/6.jpg"
+  - "images/products/motorhome/civilian-apex/7.jpg"
+  
 
 
 # meta description
@@ -47,7 +49,7 @@ The wetroom is another work of art; all surfaces are sealed with 3 coats of epox
 
 {{< youtube bpQrIvR-N-0 >}}
 
-* <i class='tf-ion-android-bus'></i> &nbsp; 1950W solar power + starter to house battery charging
+* <i class='tf-ion-android-bus'></i> &nbsp; **1950W** solar power + starter to house battery charging
 * <i class='tf-ion-android-bus'></i> &nbsp; 24v 280ah Lithium Battery
 * <i class='tf-ion-android-bus'></i> &nbsp; 296L fresh + 178L greywater capacity, monitored via central touch screen
 * <i class='tf-ion-android-bus'></i> &nbsp; 3 gas hobs + 1 electric
@@ -63,11 +65,11 @@ The wetroom is another work of art; all surfaces are sealed with 3 coats of epox
 
 {{< youtube 0uR0Civplpc >}}
 
-<i class='tf-ion-ios-bolt-outline'></i> &nbsp; The electrical system is built exclusively with Victron components, providing 12v DC, 24v DC and 240v AC. All controlled and monitored with a Victron touch screen.
+<i class='tf-ion-ios-bolt-outline'></i> &nbsp; The electrical system is built exclusively with **Victron** components, providing 12v DC, 24v DC and 240v AC. All controlled and monitored with a Victron touch screen.
 
 <i class='tf-grid'></i> &nbsp; Interior panels are removable, allowing additional services or appliances to be easily installed.
 
-<i class='tf-ion-ios-cart-outline'></i> &nbsp; All interior joinery has been designed and built to be light yet strong to increase the fuel efficiency and loading capacity for you.
+<i class='tf-ion-ios-cart-outline'></i> &nbsp; All interior joinery has been designed and built to be **light yet strong** to increase the fuel efficiency and loading capacity for you.
 
 <i class='tf-ion-thumbsup'></i> &nbsp; Most sub-floor framing is aluminium to keep the build light and strong.<br>
 
@@ -82,7 +84,7 @@ The wetroom is another work of art; all surfaces are sealed with 3 coats of epox
 <i class='tf-ion-android-bus'></i> &nbsp; A/C: Full bus-capacity flow dedicated to cab.<br>
 <i class='tf-ion-android-bus'></i> &nbsp; Engine: TD45 6 cylinder petrol.<br>
 <i class='tf-ion-android-bus'></i> &nbsp; Twin 12V starter batteries.<br>
-<i class='tf-ion-android-bus'></i> &nbsp; GVM: 5695KG. Recently weighed in at 4100KG. So you have approximately 1500KG of loading capacity.<br>
+<i class='tf-ion-android-bus'></i> &nbsp; GVM: 5695KG. Recently weighed in at 4100KG. So you have approximately **1500KG** of loading capacity.<br>
 <i class='tf-ion-android-bus'></i> &nbsp; Certified self-contained until 21 July 2029.<br>
 <i class='tf-ion-android-bus'></i> &nbsp; RUCs paid until 12002 KMs on the hub, the hub is currently 2094 KMs<br>
 
