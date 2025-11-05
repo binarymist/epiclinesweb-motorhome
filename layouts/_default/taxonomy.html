@@ -69,23 +69,37 @@
         <!-- End: This caters for terms with spaces instead of hyphens -->
         <!--degug-->
         {{/*<div>{{ printf "termPages: %s" $termPages }}</div>*/}}
-        <!--end debug-->      
+        <!--end debug-->
         {{ if not $termPages }}
           <p>"{{ .Title }}" is a taxonomy, not a term, therefore no products found for it.</p>
         {{ else }}
           <div class="row">
-            {{ $sectionPrefix := print "products/" $base "/" }}<!--sectionPrefix is products/deck-grip/colours/-->
-            {{ range $p := $termPages }}<!--p is WeightedPage(0,"deckgrip 1")-->
-              <!--degug-->
-              {{/*<div>{{ printf "--p: %s--" $p }}</div></br></br>
-              <div>{{ printf "--p.File: %s--" $p.File }}</div>
-              <div>{{ printf "--p.File.Dir: %s--" $p.File.Dir }}</div>*/}}
-              <!--end debug-->      
-              {{ if strings.HasPrefix $p.File.Dir $sectionPrefix }}
-                <div class="col-md-4 mb-4">
-                  {{ partial "product-card.html" $p }}<!--p would be http://localhost:1314/surf/products/deck-grip/deckgrip1/-->
-                </div>
-              {{ end }}
+            <!--degug-->
+            {{/*<div>{{ printf ".Section: %s" .Section }}</div>*/}}
+            <!--end debug-->
+            {{ $currentSectionDir := .Section }}
+
+            {{ range $p := $termPages }}
+                {{/* Get the page's directory (e.g., "products/motor-home" or "our-builds/civilian-apex") */}}
+                {{ $pDir := strings.TrimSuffix "/" $p.File.Dir }}
+                <!--degug-->
+                {{/*<p>{{ printf "$p.File.Dir: %s" $p.File.Dir }}</p>
+                <div>{{ printf "$pDir: %s" $pDir }}</div>*/}}
+                <!--end debug-->
+                {{/*
+                   Condition 1: Check if it's an old 'products' page.
+                   Condition 2: Check if the directory contains the current section name (e.g., 'our-build' or 'motor-home').
+                */}}
+                <!--degug-->
+                {{/*<p>{{ printf "$pDir: %s" $pDir }}</p>
+                <div>{{ printf "$currentSectionDir: %s" $currentSectionDir }}</div>*/}}
+                <!--end debug-->
+                <!-- Check if the directory contains the current section name (e.g., 'our-build' or 'motor-home'). -->
+                {{ if strings.Contains $pDir $currentSectionDir }}
+                    <div class="col-md-4 mb-4">
+                        {{ partial "product-card.html" $p }}
+                    </div>
+                {{ end }}
             {{ end }}
           </div>
         {{ end }}

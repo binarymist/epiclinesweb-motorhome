@@ -5,4 +5,4 @@ draft: false
 taxonomy_prefix: "motor-home"
 ---
 
-Motorhomes designed and built by _EpicLines_
+Motorhomes designed and built by _EpicLines_.

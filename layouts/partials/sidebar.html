@@ -48,7 +48,7 @@
               <!--debug-->
               {{/*<div>{{ printf "$p.File.Dir: %s" $p.File.Dir }}</div>*/}}
               <!--End debug-->
-              {{ if strings.HasPrefix $p.File.Dir (print "products/" $prefix "/") }}
+              {{ if or (strings.HasPrefix $p.File.Dir (print "products/" $prefix "/")) (strings.HasPrefix $p.File.Dir "our-builds/") }}
                 {{ $.Scratch.Add "count" 1 }}
               {{ end }}
             {{ end }}

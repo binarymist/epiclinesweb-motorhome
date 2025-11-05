@@ -1,18 +1,37 @@
 {{ define "main" }}
+<!-- Copied from the bottom part of layouts/products/list.html -->
+  {{/* Normal product list for sub-pages */}}    
 
-<section class="section">
-  <div class="container">
-    <div class="row justify-content-center">
-      <div class="col-lg-10 text-center mb-5">
-        <h1 class="font-weight-bold">{{.Title}}</h1>
-      </div>
-      <div class="col-lg-10 mb-5">
-        <div class="content">
-          {{.Content}}
+  <!--Our product specific template-->
+  <section class="section gallery">
+    <div class="container">
+      <div class="row">
+        <aside class="col-lg-3">
+          {{ partial "sidebar.html" . }}
+        </aside>
+        
+        <div class="col-lg-9">
+          <h1>{{ .Title }}</h1>
+          {{ .Content }}
+          <div class="row">
+            {{ $sectionDir := .File.Dir }}
+            {{ range $p := where site.RegularPages "Section" "our-builds" }}
+              {{ if strings.HasPrefix $p.File.Dir $sectionDir }}
+                <div class="col-md-4 mb-4">
+                  {{ partial "product-card.html" $p }}
+                </div>
+              {{ end }}
+            {{ end }}
+          </div>
         </div>
       </div>
     </div>
-  </div>
-</section>
+  </section>
+  <!--End Our product specific template-->
+
+
+
 
 {{ end }}
+
+
