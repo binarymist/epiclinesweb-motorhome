@@ -33,12 +33,12 @@ We use this board in our new motorhome builds because we haven't found anything 
 
 The grout lines are cut (0.3mm deep) by hand and look more authentic than the other moulded boards; they actually look like grout!
 
-It has several coats of a plant-based sealer (both sides and end grain), then three coats of a satin automotive top coat (top side & end grain).
+It has several coats of a premium shellac-based sealer (both sides and end grain), then three coats of a premium satin automotive lacquer (top side & end grain).
 
 Sheet size: 2.4m x 1.2m.<br>
 We can also make the shapes you need to order.
 
 Suitable for wall linings in wet areas, kitchens, feature walls, and anywhere else.
 
-This is currently made to order, so expect several days to make. For colours other than black or white, check with us first.
+This is currently made to order, so expect several days to make. Custom colours other than black or white are possible but will cost extra, check with us first.
 
