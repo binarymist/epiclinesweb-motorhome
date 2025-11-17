@@ -56,7 +56,7 @@ promo:
   image: "images/promo_min.jpg"
   title: "Designed for ourselves,<br>offered to you"
   content:
-    "Many motorhome retailers talk their imported offerings up; we don’t need to. Our New Zealand-designed and built motorhomes have high-end specifications that you’ll struggle to find elsewhere."
+    "Many motorhome retailers talk their imported offerings up; we don’t need to. Our New Zealand-designed and built motorhomes have high-end specifications that you’ll **struggle to find elsewhere**."
 
 #################################### Products ########################
 products:
@@ -76,7 +76,7 @@ about_product:
       content:
         "
         <i class='tf-tools-2'></i> &nbsp; Leak Remediation<br>
-        <i class='tf-tools-2'></i> &nbsp; Cabinetry and benchtops<br>
+        <i class='tf-tools-2'></i> &nbsp; Cabinetry and Benchtops<br>
         <i class='tf-tools-2'></i> &nbsp; Collision repairs<br>
         <i class='tf-tools-2'></i> &nbsp; Fibreglass<br>
         <i class='tf-tools-2'></i> &nbsp; Welding and fabrication<br>
@@ -111,7 +111,7 @@ about_product:
         "
         <i class='tf-tools-2'></i> &nbsp; Self-containment inspections<br>
         <i class='tf-tools-2'></i>  &nbsp;  Window tinting<br>
-        <i class='tf-tools-2'></i>  &nbsp;  Carpet laying<br>
+        <i class='tf-tools-2'></i>  &nbsp;  Floor Coverings<br>
         <i class='tf-tools-2'></i>  &nbsp;  Plumbing<br>
         <i class='tf-tools-2'></i>  &nbsp;  Electrical<br>
         <i class='tf-tools-2'></i>  &nbsp;  Panel and Paint

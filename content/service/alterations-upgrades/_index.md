@@ -1,42 +1,39 @@
 ---
 title: "Alterations and Upgrades"
-description : "this is a meta description"
+description : "Alterations and Upgrades for Motorhomes"
 draft: false
-note: Similar to https://jlcoachbuilders.co.nz/fifth-wheel-services-in-christchurch/ and https://binarymist.io/project/service-development-team-security-teardown/
+
 ---
 
-This page describes what we can do for you in terms of alterations and upgrades to your motorhome.
 
-Coming soon...
+We apply our custom building experience to provide high-quality alterations and upgrades. All modifications are engineered and finished to our stringent new-build standards.
+Ensuring long-term reliability, bespoke functionality, while optimising interior space.
 
-Until then, please contact us [here]({{% param "coreURL" %}}contact/).
+<br>
 
-<!--
-Please read this terms and conditions stated below, which outline a lot of legal goodies, but the bottom line is it’s our aim to always take care of both of us, as a customer, or as a seller. We’ve included many of these terms to legally protect ourselves, but if you have an issue, always feel free to email us at contact@themefisher.com and we’ll do our best to resolve it in a fair and timely way .
+### 🎯 Commitment to Quality and Value
 
-### Product Buy & delivery policy
+We provide competitive pricing for specialised upgrade work.
+Every job is performed with exacting care, focusing on the structural integrity and long-term functional reliability of the modification.
 
-1)All payments are processed securely through PayPal or Stripe. Themefisher does not directly process payments through the website. So any kind of Problem if you face Themefisher will Not Take any responsibility.
+<br>
 
-### Product Buy & delivery policy
+### 📋 Our Specialised Upgrade Services
 
-Please read this terms and conditions stated below, which outline a lot of legal goodies, but the bottom line is it’s our aim to always take care of both of us, as a customer, or as a seller. We’ve included many of these terms to legally protect ourselves, but if you have an issue, always feel free to email us at contact@themefisher.com and we’ll do our best to resolve it in a fair and timely way .
+We perform all custom modifications and upgrades, including but not limited to:
 
-### Refund Policy
+* **Joinery alterations:** Custom modification or complete redesign of cabinetry, seating, and storage areas to optimise interior flow and functionality
+* **Solar installations:** Design and installation of high-efficiency solar panel arrays, including lithium batteries and charge controllers, for reliable, complete off-grid power
+* **Diesel heaters:** Professional installation of efficient diesel heating systems for comfortable all-weather use
+* **Water tanks:** Tailored installation and replacement of fresh, grey, and black water tanks, including monitoring systems
+* **Interior fit-outs:** Full or partial interior conversions, featuring precision finish work and individualised material selection
 
-1) Since Themefisher is offering non-tangible and irrevocable digital products, we do NOT issue refunds after a purchase is made. If there is a problem with one of the digital download products or if you experience any difficulty with the download, we will fix the problem.
-2) You have 24 hours to inspect your purchase and to determine if it does not meet with the expectations laid forth by The Themefisher. In the event that you wish to receive a refund, Themefisher will issue you a refund and ask you to specify how the product failed to live up to expectations.
-3) When you make a qualifying return, We’ll credit the full amount, less the handling charges. Refunds are generally processed within 3–5 business days after we receive your claim and find it eligible for a return. Refunds are applied to the original payment option.
+<br>
 
-### Support Policy
-1) Since Themefisher is offering non-tangible and irrevocable digital products, we do NOT issue refunds after a purchase is made. If there is a problem with one of the digital download products or if you experience any difficulty with the download, we will fix the problem.
-2) You have 24 hours to inspect your purchase and to determine if it does not meet with the expectations laid forth by The Themefisher. In the event that you wish to receive a refund, Themefisher will issue you a refund and ask you to specify how the product failed to live up to expectations.
-3) When you make a qualifying return, We’ll credit the full amount, less the handling charges. Refunds are generally processed within 3–5 business days after we receive your claim and find it eligible for a return. Refunds are applied to the original payment option.
+### 📞 Ready to Discuss Your Upgrade?
 
-### Why We Support:
+For an accurate assessment and quote for your motorhome modification or upgrade, please:
 
-1. Support covers getting up and help in theme setup
-2. Help using features and theme options
-3. Bug fixes – if you discovered a bug in the theme/Template we will fix it
-4. Functionality which does not work as advertised
--->
+* [**Call or TXT us**]({{% param "coreURL" %}}contact/) to discuss your upgrade vision and scope of work
+* [**Email us**]({{% param "coreURL" %}}contact/) detailed photos if you are requesting complex or custom work
+* [**Visit our workshop**]({{% param "coreURL" %}}contact/) during business hours for a detailed, no-obligation assessment

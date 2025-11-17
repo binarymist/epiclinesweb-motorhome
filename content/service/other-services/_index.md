@@ -1,42 +1,33 @@
 ---
 title: "Other Services"
-description : "this is a meta description"
+description : "Other Motorhome Services"
 draft: false
-note: Similar to https://jlcoachbuilders.co.nz/fifth-wheel-services-in-christchurch/ and https://binarymist.io/project/service-development-team-security-teardown/
+
 ---
 
-This page describes what we can do for you in terms of carrying out many types of services on your motorhome.
+We offer essential maintenance, inspection, and specialty finishing services required to keep your motorhome compliant, comfortable, and looking its best.
 
-Coming soon...
+### 🚌 Essential Services and Specialty Support
 
-Until then, please contact us [here]({{% param "coreURL" %}}contact/)
+We provide expert solutions across all critical motorhome services. We offer competitive pricing, and every job—from self-containment inspections to detailed finishing—is completed with fastidious care to ensure compliance and lasting results.
 
-<!--
-Please read this terms and conditions stated below, which outline a lot of legal goodies, but the bottom line is it’s our aim to always take care of both of us, as a customer, or as a seller. We’ve included many of these terms to legally protect ourselves, but if you have an issue, always feel free to email us at contact@themefisher.com and we’ll do our best to resolve it in a fair and timely way .
+<br>
 
-### Product Buy & delivery policy
+### 📋 Our Additional Services
 
-1)All payments are processed securely through PayPal or Stripe. Themefisher does not directly process payments through the website. So any kind of Problem if you face Themefisher will Not Take any responsibility.
+We provide a wide range of essential services, including but not limited to:
 
-### Product Buy & delivery policy
+* **Self-containment inspections:** Certified inspections for the New Zealand self-containment standard NZS 5465, ensuring your motorhome meets legal requirements for independent freedom camping
+* **Window tinting:** Professional application of high-quality ceramic UV-resistant window film for privacy, heat reduction, and protection of interior furnishings
+* **Floor Coverings:** Supply and installation of commercial-grade carpet (for both living areas and cabs), Laminate, and Hardwood floor coverings. All carpet installations feature a double-bond underlay for superior comfort, noise reduction, and insulation
+* **Plumbing:** Repair, modification, and installation of fresh water, grey water, and black water systems
+* **Electrical:** Service for motorhome onboard power systems (230V 12V DC, 24V DC, 48V DC), including fault finding and required system modifications
+* **Panel and Paint:** High-standard bodywork repair, including rust remediation, dent removal, and precision paint matching, plus specialised protective coatings to resist wear and enhance the finish
 
-Please read this terms and conditions stated below, which outline a lot of legal goodies, but the bottom line is it’s our aim to always take care of both of us, as a customer, or as a seller. We’ve included many of these terms to legally protect ourselves, but if you have an issue, always feel free to email us at contact@themefisher.com and we’ll do our best to resolve it in a fair and timely way .
+### 📞 Ready to Book Your Service?
 
-### Refund Policy
+For an accurate assessment and quote for any of our additional services, please:
 
-1) Since Themefisher is offering non-tangible and irrevocable digital products, we do NOT issue refunds after a purchase is made. If there is a problem with one of the digital download products or if you experience any difficulty with the download, we will fix the problem.
-2) You have 24 hours to inspect your purchase and to determine if it does not meet with the expectations laid forth by The Themefisher. In the event that you wish to receive a refund, Themefisher will issue you a refund and ask you to specify how the product failed to live up to expectations.
-3) When you make a qualifying return, We’ll credit the full amount, less the handling charges. Refunds are generally processed within 3–5 business days after we receive your claim and find it eligible for a return. Refunds are applied to the original payment option.
-
-### Support Policy
-1) Since Themefisher is offering non-tangible and irrevocable digital products, we do NOT issue refunds after a purchase is made. If there is a problem with one of the digital download products or if you experience any difficulty with the download, we will fix the problem.
-2) You have 24 hours to inspect your purchase and to determine if it does not meet with the expectations laid forth by The Themefisher. In the event that you wish to receive a refund, Themefisher will issue you a refund and ask you to specify how the product failed to live up to expectations.
-3) When you make a qualifying return, We’ll credit the full amount, less the handling charges. Refunds are generally processed within 3–5 business days after we receive your claim and find it eligible for a return. Refunds are applied to the original payment option.
-
-### Why We Support:
-
-1. Support covers getting up and help in theme setup
-2. Help using features and theme options
-3. Bug fixes – if you discovered a bug in the theme/Template we will fix it
-4. Functionality which does not work as advertised
--->
+* [**Call or TXT us**]({{% param "coreURL" %}}contact/) to discuss the required work
+* [**Email us**]({{% param "coreURL" %}}contact/) detailed photos of any damage for repair quotes
+* [**Visit our workshop**]({{% param "coreURL" %}}contact/) during business hours for a detailed, no-obligation assessment

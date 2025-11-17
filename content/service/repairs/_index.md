@@ -1,44 +1,40 @@
 ---
 title: "Repairs"
-description : "this is a meta description"
+description : "Motorhome Repairs"
 draft: false
-note: Similar to https://jlcoachbuilders.co.nz/fifth-wheel-services-in-christchurch/ and https://binarymist.io/project/service-development-team-security-teardown/
+
 ---
 
-This page describes what we can do for you in terms of carrying out repairs on your motorhome.
 
-Coming soon...
 
-Until then, please contact us [here]({{% param "coreURL" %}}contact/).
+We offer high-quality repair and refurbishment services for motorhomes, leveraging the standards developed in our custom motorhome building work. We provide comprehensive repair solutions to maintain the appearance, function, and long-term structural integrity of your vehicle.
 
-<!--
-Fibreglass
+<br>
 
-Please read this terms and conditions stated below, which outline a lot of legal goodies, but the bottom line is it’s our aim to always take care of both of us, as a customer, or as a seller. We’ve included many of these terms to legally protect ourselves, but if you have an issue, always feel free to email us at contact@themefisher.com and we’ll do our best to resolve it in a fair and timely way .
+### 📐 Highest Standard of Workmanship
 
-### Product Buy & delivery policy
+We provide competitive pricing for specialized work. Every job is completed to the highest standard, ensuring the quality and durability of the final result.
 
-1)All payments are processed securely through PayPal or Stripe. Themefisher does not directly process payments through the website. So any kind of Problem if you face Themefisher will Not Take any responsibility.
+<br>
 
-### Product Buy & delivery policy
+### 📏 Precision Motorhome Restoration and Fabrication
 
-Please read this terms and conditions stated below, which outline a lot of legal goodies, but the bottom line is it’s our aim to always take care of both of us, as a customer, or as a seller. We’ve included many of these terms to legally protect ourselves, but if you have an issue, always feel free to email us at contact@themefisher.com and we’ll do our best to resolve it in a fair and timely way .
+We handle the following specialized repair services:
 
-### Refund Policy
+* **Leak Remediation:** Professional inspection and permanent sealing solutions for water ingress/egress, wet rooms, and general plumbing leaks
+* **Cabinetry and Benchtops:** Bespoke creation, replacement, and refurbishment of cabinetry, interior linings, and benchtops. We use premium hardwoods and recycled timbers, finished to a silky smooth touch with joins that are visible but imperceptible to touch
+* **Collision repairs:** Full exterior and internal body reconstruction following damage, performed to new-build quality standards
+* **Fibreglass:** Expert fibreglass repair and custom modification of fibreglass components
+* **Welding and fabrication:** Welding and fabrication for new components and robust repairs on body and sub-floor components
+* **Rust prevention and removal:** In our builds, we employ multiple preventative rust treatments to eliminate future corrosion issues, as well as detailed remediation services for existing corrosion
+* **Interior and exterior linings:** Replacement and repair of damaged interior wall and ceiling linings, as well as exterior body linings
 
-1) Since Themefisher is offering non-tangible and irrevocable digital products, we do NOT issue refunds after a purchase is made. If there is a problem with one of the digital download products or if you experience any difficulty with the download, we will fix the problem.
-2) You have 24 hours to inspect your purchase and to determine if it does not meet with the expectations laid forth by The Themefisher. In the event that you wish to receive a refund, Themefisher will issue you a refund and ask you to specify how the product failed to live up to expectations.
-3) When you make a qualifying return, We’ll credit the full amount, less the handling charges. Refunds are generally processed within 3–5 business days after we receive your claim and find it eligible for a return. Refunds are applied to the original payment option.
+<br>
 
-### Support Policy
-1) Since Themefisher is offering non-tangible and irrevocable digital products, we do NOT issue refunds after a purchase is made. If there is a problem with one of the digital download products or if you experience any difficulty with the download, we will fix the problem.
-2) You have 24 hours to inspect your purchase and to determine if it does not meet with the expectations laid forth by The Themefisher. In the event that you wish to receive a refund, Themefisher will issue you a refund and ask you to specify how the product failed to live up to expectations.
-3) When you make a qualifying return, We’ll credit the full amount, less the handling charges. Refunds are generally processed within 3–5 business days after we receive your claim and find it eligible for a return. Refunds are applied to the original payment option.
+### 📞 Ready for a Repair Estimate?
 
-### Why We Support:
+* For an accurate assessment and quote for your motorhome repair, please:
 
-1. Support covers getting up and help in theme setup
-2. Help using features and theme options
-3. Bug fixes – if you discovered a bug in the theme/Template we will fix it
-4. Functionality which does not work as advertised
--->
+* [**Call us**]({{% param "coreURL" %}}contact/) to discuss the scope of work
+* [**Email us**]({{% param "coreURL" %}}contact/) detailed photos of any damage or breakdown
+* [**Visit our workshop**]({{% param "coreURL" %}}contact/) during business hours for a detailed, no-obligation assessment
