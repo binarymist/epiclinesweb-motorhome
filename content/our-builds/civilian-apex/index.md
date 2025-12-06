@@ -2,13 +2,13 @@
 title: "Civilian Apex"
 date: 2019-10-17T11:22:16+06:00
 images:
-  - "images/products/motorhome/civilian-apex/1.jpg"
-  - "images/products/motorhome/civilian-apex/2.jpg"
-  - "images/products/motorhome/civilian-apex/3.jpg"
-  - "images/products/motorhome/civilian-apex/4.jpg"
-  - "images/products/motorhome/civilian-apex/5.jpg"
-  - "images/products/motorhome/civilian-apex/6.jpg"
-  - "images/products/motorhome/civilian-apex/7.jpg"
+  - "images/products/motorhome/civilian-apex/1_min.jpg"
+  - "images/products/motorhome/civilian-apex/2_min.jpg"
+  - "images/products/motorhome/civilian-apex/3_min.jpg"
+  - "images/products/motorhome/civilian-apex/4_min.jpg"
+  - "images/products/motorhome/civilian-apex/5_min.jpg"
+  - "images/products/motorhome/civilian-apex/6_min.jpg"
+  - "images/products/motorhome/civilian-apex/7_min.jpg"
   
 
 

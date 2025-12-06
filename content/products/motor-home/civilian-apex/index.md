@@ -2,13 +2,13 @@
 title: "Civilian Apex"
 date: 2019-10-17T11:22:16+06:00
 images:
-  - "images/products/motorhome/civilian-apex/1.jpg"
-  - "images/products/motorhome/civilian-apex/2.jpg"
-  - "images/products/motorhome/civilian-apex/3.jpg"
-  - "images/products/motorhome/civilian-apex/4.jpg"
-  - "images/products/motorhome/civilian-apex/5.jpg"
-  - "images/products/motorhome/civilian-apex/6.jpg"
-  - "images/products/motorhome/civilian-apex/7.jpg"
+  - "images/products/motorhome/civilian-apex/1_min.jpg"
+  - "images/products/motorhome/civilian-apex/2_min.jpg"
+  - "images/products/motorhome/civilian-apex/3_min.jpg"
+  - "images/products/motorhome/civilian-apex/4_min.jpg"
+  - "images/products/motorhome/civilian-apex/5_min.jpg"
+  - "images/products/motorhome/civilian-apex/6_min.jpg"
+  - "images/products/motorhome/civilian-apex/7_min.jpg"
   
 
 
@@ -53,7 +53,7 @@ The wetroom is another work of art; all surfaces are sealed with 3 coats of epox
 * <i class='tf-ion-android-bus'></i> &nbsp; 24v 280ah Lithium Battery
 * <i class='tf-ion-android-bus'></i> &nbsp; 296L fresh + 178L greywater capacity, monitored via central touch screen
 * <i class='tf-ion-android-bus'></i> &nbsp; 3 gas hobs + 1 electric
-* <i class='tf-ion-android-bus'></i> &nbsp; Full-size gas fan-bake oven and grill (with 240v backup)
+* <i class='tf-ion-android-bus'></i> &nbsp; Full-size gas fan-bake oven and grill
 * <i class='tf-ion-android-bus'></i> &nbsp; Multi-function microwave, air fryer, grill
 * <i class='tf-ion-android-bus'></i> &nbsp; Gas and electric water heating 20.3L
 * <i class='tf-ion-android-bus'></i> &nbsp; 240v energy efficient 122L fridge/freezer

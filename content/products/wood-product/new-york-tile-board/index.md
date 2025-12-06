@@ -2,10 +2,10 @@
 title: "New York Tile Board"
 date: 2019-10-17T11:22:16+06:00
 images: 
-  - "images/products/wood-product/new-york-tile-board/1.jpg"
-  - "images/products/wood-product/new-york-tile-board/2.jpg"
-  - "images/products/wood-product/new-york-tile-board/3.jpg"
-  - "images/products/wood-product/new-york-tile-board/4.jpg"
+  - "images/products/wood-product/new-york-tile-board/1_min.jpg"
+  - "images/products/wood-product/new-york-tile-board/2_min.jpg"
+  - "images/products/wood-product/new-york-tile-board/3_min.jpg"
+  - "images/products/wood-product/new-york-tile-board/4_min.jpg"
 
 # meta description
 description : "light-weight and durable tile look lining"

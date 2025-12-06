@@ -55,6 +55,7 @@ promo:
   enable: true
   image: "images/promo_min.jpg"
   title: "Designed for ourselves,<br>offered to you"
+  alt_text: "Designed for ourselves, offered to you"
   content:
     "Many motorhome retailers talk their imported offerings up; we don’t need to. Our New Zealand-designed and built motorhomes have high-end specifications that you’ll **struggle to find elsewhere**."
 
