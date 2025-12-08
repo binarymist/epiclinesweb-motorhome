@@ -88,12 +88,14 @@ The wetroom is another work of art; all surfaces are sealed with 3 coats of epox
 <i class='tf-ion-android-bus'></i> &nbsp; Certified self-contained until 21 July 2029.<br>
 <i class='tf-ion-android-bus'></i> &nbsp; RUCs paid until 12002 KMs on the hub, the hub is currently 2094 KMs<br>
 
+---
 
+The above is an executive summary.  
+Be sure to check out the following resources for much more:
 
-The above is an executive summary. For full details on the Civilian Apex, be sure to check out the [blog post]({{% param "coreURL" %}}blog/2025/10/31/civilian-apex-build/) and Youtube videos:
-
-
-
+<i class='tf-ion-ios-book-outline'></i> &nbsp; [blog post]({{% param "coreURL" %}}blog/2025/10/31/civilian-apex-build/)<br>
+<i class='tf-ion-social-youtube-outline'></i> &nbsp;Youtube videos above<br>
+<i class='tf-ion-ios-photos'></i> &nbsp; [Deals On Wheels](https://www.dealsonwheels.co.nz/detail/nissan-civilian-motorhome-1051693) for many quality photos<br>
 
 <!-- Following used for TM add -->
 <!--
