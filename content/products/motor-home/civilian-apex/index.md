@@ -95,7 +95,7 @@ Be sure to check out the following resources for much more:
 
 <i class='tf-ion-ios-book-outline'></i> &nbsp; [blog post]({{% param "coreURL" %}}blog/2025/10/31/civilian-apex-build/)<br>
 <i class='tf-ion-social-youtube-outline'></i> &nbsp;Youtube videos above<br>
-<i class='tf-ion-ios-photos'></i> &nbsp; [Deals On Wheels](https://www.dealsonwheels.co.nz/detail/nissan-civilian-motorhome-1051693) for many quality photos<br>
+<i class='tf-ion-ios-photos'></i> &nbsp; [Deals On Wheels](https://www.dealsonwheels.co.nz/detail/nissan-civilian-motorhome-1051693) for many high resolution photos<br>
 
 <!-- Following used for TM add -->
 <!--
