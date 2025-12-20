@@ -1,7 +1,7 @@
 ############################# banner ############################
 banner:
   enable: true
-  title: "Motorhomes for the discerning"
+  title: "Making Lines For The Discerning"
   content: "We design, build and service motorhomes as if they were for ourselves; that way, we know you'll love them. We're a fussy bunch, and have high expectations of ourselves and what we create. We keep our overheads low so that the benefits are passed on to you. Expect competitive pricing and the highest standard of workmanship and service."
   image: "images/banner_min.jpg"
   button:
