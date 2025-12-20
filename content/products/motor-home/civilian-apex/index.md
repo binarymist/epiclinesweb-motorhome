@@ -97,36 +97,17 @@ Be sure to check out the following resources for much more:
 <i class='tf-ion-social-youtube-outline'></i> &nbsp;Youtube videos above<br>
 <i class='tf-ion-ios-photos'></i> &nbsp; [Deals On Wheels](https://www.dealsonwheels.co.nz/detail/nissan-civilian-motorhome-1051693) for many high resolution photos<br>
 
-<!-- Following used for TM add -->
+
 <!--
 
-* <i class='tf-ion-android-bus'></i> &nbsp; Impressive storage capacity inside and out, including inside and outside surfboard storage, a full-size wardrobe for two, as well as lots of cupboards in handy locations
-* <i class='tf-ion-android-bus'></i> &nbsp; Concealed laptop safe
-* <i class='tf-ion-android-bus'></i> &nbsp; Concealed slide-out table
-* <i class='tf-ion-android-bus'></i> &nbsp; Storage for up to 2 x 12KG gas bottles
+Customisations available on request.
 
-<br>
+Considerations for the buyer:
 
-<i class='tf-ion-ios-bolt-outline'></i> &nbsp; Full Victron electrical system providing 12v DC, 24v DC and 240v AC. All controlled and monitored with a Victron touch screen.
-
-<i class='tf-grid'></i> &nbsp; Interior panels are removable, allowing additional services or appliances to be easily installed.
-
-<i class='tf-ion-ios-cart-outline'></i> &nbsp; All interior joinery has been designed and built to be light yet strong to increase the fuel efficiency and loading capacity for you.
-
-<i class='tf-ion-thumbsup'></i> &nbsp; Aluminium sub-floor framing to keep the build light and strong.<br>
-
-<i class='tf-ion-key'></i> &nbsp; The Civilian Apex will be fully serviced before you take ownership.
-
-<br>
-
-<i class='tf-ion-android-bus'></i> &nbsp; 5 spd Manual, dual rear wheel drive.<br>
-<i class='tf-ion-android-bus'></i> &nbsp; A/C: Full bus-capacity flow dedicated to cab.<br>
-<i class='tf-ion-android-bus'></i> &nbsp; Engine: TD45 6 cylinder petrol.<br>
-<i class='tf-ion-android-bus'></i> &nbsp; Twin 12V starter batteries.<br>
-<i class='tf-ion-android-bus'></i> &nbsp; GVM: 5695KG. Recently weighed in at 4100KG. So you have approximately 1500KG of loading capacity.<br>
-<i class='tf-ion-android-bus'></i> &nbsp; Certified self-contained until 21 July 2029.<br>
-<i class='tf-ion-android-bus'></i> &nbsp; RUCs paid until 12002 KMs on the hub, the hub is currently 2094 KMs<br>
-
-For full details be sure to check out the [blog post]({{% param "coreURL" %}}blog/2025/10/31/civilian-apex-build/) and Youtube videos:
+- Don't move the captain and passenger seat back too fast
+- Be careful not to spray wash water into the electric's roof hole
+- Avoid sun, extreme heat, and severe humidity changes on benches
+- Avoid direct sunlight on the black painted joinery surfaces, such as those by the side door
+- Don't adjust any electrical settings
 
 -->
