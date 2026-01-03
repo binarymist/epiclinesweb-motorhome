@@ -27,6 +27,7 @@ We perform all custom modifications and upgrades, including but not limited to:
 * **Diesel heaters:** Professional installation of efficient diesel heating systems for comfortable all-weather use
 * **Water tanks:** Tailored installation and replacement of fresh, grey, and black water tanks, including monitoring systems
 * **Interior fit-outs:** Full or partial interior conversions, featuring precision finish work and individualised material selection
+* **Auto Upholstery & Sewing:** Bespoke tailoring of interior seating, squabs, and beds using premium leather and marine-grade vinyl. We provide specialized heavy-duty sewing for luxurious finishes and unique textile projects
 
 <br>
 
