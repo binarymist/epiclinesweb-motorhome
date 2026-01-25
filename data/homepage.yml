@@ -3,7 +3,7 @@ banner:
   enable: true
   title: "Making Lines For The Discerning"
   content: "We design, build and service motorhomes as if they were for ourselves; that way, we know you'll love them. We're a fussy bunch, and have high expectations of ourselves and what we create. We keep our overheads low so that the benefits are passed on to you. Expect competitive pricing and the highest standard of workmanship and service."
-  image: "images/banner_min.jpg"
+  image: "images/CivyOnWindingRoad_min.png"
   button:
     enable: true
     label: "Browse All Products"
@@ -148,4 +148,10 @@ testimonial:
       designation: "Waimairi Beach"
       image: "images/BruceEmson.jpeg"
       content: "We've recently had Kim undertake some maintenance on our Motorhome and can't be happier. Kim knows his stuff and is really fairly priced. Thanks Kim."
+
+    # testimonial item loop
+    - name: "Nicky and James"
+      designation: "Christchurch"
+      image: "images/NicolaAllely.jpeg"
+      content: "Kim went above and beyond to make sure our modifications for self-containment were both functional and stylish. Responsive communication and great advice. "
 

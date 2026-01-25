@@ -30,7 +30,9 @@
       {{ $.Site.Params.currency }}{{ .Params.discount_price }}
       <s class="price">{{ $.Site.Params.currency }}{{ .Params.price }}</s>
     {{ else }}
-      {{ $.Site.Params.currency }}{{ .Params.price }}
+      {{ if .Params.price }}
+        {{ $.Site.Params.currency }}{{ .Params.price }}
+      {{ end }}
     {{ end }}
   </p>
 </div>

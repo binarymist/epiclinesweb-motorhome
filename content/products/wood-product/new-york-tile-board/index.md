@@ -27,7 +27,12 @@ productvariation_colours: ["black", "white", "custom"]
 button_link: "https://www.trademe.co.nz/a/marketplace/building-renovation/building-supplies/panels-boards/plywood/search?search_string=EpicLines%20New%20York%20Tile%20Board"
 
 draft: false
+# Remove followng feature flag once ready to roll out cart and Stripe site wide.
+# Will also need to remove the checks in layouts/products/single.html
+featureflag_cart: true
 ---
+
+> Our shopping cart functionality is not yet implemented, you can purchase this item on Trademe [here](https://www.trademe.co.nz/a/marketplace/building-renovation/building-supplies/panels-boards/plywood/search?search_string=EpicLines%20New%20York%20Tile%20Board).
 
 Our Tile Board is made from 4mm Okoume (very durable) ply with Poplar core, approximately 4kg per sheet, much lighter than other off-the-shelf offerings such as fibre cement boards and Seratone. Perfect for motorhome and caravan builds.
 We use this board in our new motorhome builds because we haven't found anything else lighter or stronger.

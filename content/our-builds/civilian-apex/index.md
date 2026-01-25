@@ -16,14 +16,14 @@ images:
 description : "EpicLines Civilian Apex"
 
 # product Price
-price: "179990.00"
+#price: "179990.00"
 #discount_price: "179990.00"
 
 # taxonomy
 our-build/details: ["nissan", "civilian", "green", "6.9M", "4.5L petrol"]
 
 # product variation
-productvariation_colours: ["black", "green"]
+productvariation_colours: ["green"]
 
 # button link if you don't want to use snipcart. empty link will not show button
 button_link: "https://www.trademe.co.nz/a/motors/caravans-motorhomes/motorhomes/search?search_string=EpicLines%20Civilian%20Apex"
@@ -55,7 +55,7 @@ The wetroom is another work of art; all surfaces are sealed with 3 coats of epox
 * <i class='tf-ion-android-bus'></i> &nbsp; 24v 280ah Lithium Battery
 * <i class='tf-ion-android-bus'></i> &nbsp; 296L fresh + 178L greywater capacity, monitored via central touch screen
 * <i class='tf-ion-android-bus'></i> &nbsp; 3 gas hobs + 1 electric
-* <i class='tf-ion-android-bus'></i> &nbsp; Full-size gas fan-bake oven and grill (with 240v backup)
+* <i class='tf-ion-android-bus'></i> &nbsp; Full-size gas fan-bake oven and grill
 * <i class='tf-ion-android-bus'></i> &nbsp; Multi-function microwave, air fryer, grill
 * <i class='tf-ion-android-bus'></i> &nbsp; Gas and electric water heating 20.3L
 * <i class='tf-ion-android-bus'></i> &nbsp; 240v energy efficient 122L fridge/freezer

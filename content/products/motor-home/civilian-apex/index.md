@@ -23,7 +23,7 @@ price: "179990.00"
 motor-home/details: ["nissan", "civilian", "green", "6.9M", "4.5L petrol"]
 
 # product variation
-productvariation_colours: ["black", "green"]
+productvariation_colours: ["green"]
 
 # button link if you don't want to use snipcart. empty link will not show button
 button_link: "https://www.trademe.co.nz/a/motors/caravans-motorhomes/motorhomes/search?search_string=EpicLines%20Civilian%20Apex"
