@@ -155,3 +155,9 @@ testimonial:
       image: "images/NicolaAllely.jpeg"
       content: "Kim went above and beyond to make sure our modifications for self-containment were both functional and stylish. Responsive communication and great advice. "
 
+    # testimonial item loop
+    - name: "Lyall Anderson"
+      designation: "Addington"
+      image: "images/LyallAnderson.jpeg"
+      content: "My van had a few issues and you were able to discuss with me various options for repair to bring it up to spec. Once repaired I was able to get back on the road, thank you. I also had some non self containment electrical issues which you researched for me enabling us to find the best option. All in all a great service and would definitely call on you again if I have any issues."
+
